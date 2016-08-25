@@ -2,4 +2,4 @@
 !.gitignore
 *.properties
 /target
-target/
+target/ 
