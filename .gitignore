@@ -2,4 +2,5 @@
 !.gitignore
 *.properties
 /target
-target/ 
+target/
+.classpath
